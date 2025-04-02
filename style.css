@@ -1,0 +1,47 @@
+body{
+    background-color: burlywood;
+    background-size: cover;
+}
+#mc{
+    color: blue;
+}
+.ICT{
+    color: #fcffff;
+    margin: 88px;
+    margin-right: 88px;
+}
+.ab{
+    border: 2px dotted;
+    color: #fcffff;
+    background-color: rgb(238, 215, 10);
+    border-radius: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+nav{
+    background-color: #333;
+    padding: 10px 0;
+}
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.menu li{
+    margin: 0 15px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    display: block;
+}
+.menu a:hover{
+    background-color: #e5e911;
+    border-radius: 5px;
+}
